@@ -1,0 +1,199 @@
+{
+  "defaults": {
+    "default_capex_usd_ha": 2500.0,
+    "default_opex_usd_ha": 350.0,
+    "default_yield_usd_ha": 1800.0,
+    "default_yield_start_year": 4
+  },
+  "species": {
+    "101": {
+      "name": "Teak",
+      "capex_establishment_usd_ha": 2800.0,
+      "opex_annual_usd_ha": 400.0,
+      "yield_revenue_annual_usd_ha": 2600.0,
+      "yield_start_year": 7
+    },
+    "102": {
+      "name": "Rose Gum / Flooded Gum",
+      "capex_establishment_usd_ha": 2000.0,
+      "opex_annual_usd_ha": 300.0,
+      "yield_revenue_annual_usd_ha": 1900.0,
+      "yield_start_year": 5
+    },
+    "103": {
+      "name": "Big-Leaf Mahogany",
+      "capex_establishment_usd_ha": 3000.0,
+      "opex_annual_usd_ha": 450.0,
+      "yield_revenue_annual_usd_ha": 3200.0,
+      "yield_start_year": 8
+    },
+    "104": {
+      "name": "Indian Rosewood / Shisham",
+      "capex_establishment_usd_ha": 2400.0,
+      "opex_annual_usd_ha": 350.0,
+      "yield_revenue_annual_usd_ha": 2200.0,
+      "yield_start_year": 6
+    },
+    "105": {
+      "name": "Indian Sandalwood",
+      "capex_establishment_usd_ha": 4500.0,
+      "opex_annual_usd_ha": 600.0,
+      "yield_revenue_annual_usd_ha": 6500.0,
+      "yield_start_year": 10
+    },
+    "106": {
+      "name": "Solid Bamboo",
+      "capex_establishment_usd_ha": 1800.0,
+      "opex_annual_usd_ha": 320.0,
+      "yield_revenue_annual_usd_ha": 2100.0,
+      "yield_start_year": 3
+    },
+    "107": {
+      "name": "Natural Rubber Tree",
+      "capex_establishment_usd_ha": 3200.0,
+      "opex_annual_usd_ha": 550.0,
+      "yield_revenue_annual_usd_ha": 2800.0,
+      "yield_start_year": 6
+    },
+    "108": {
+      "name": "Arabica Coffee",
+      "capex_establishment_usd_ha": 3500.0,
+      "opex_annual_usd_ha": 700.0,
+      "yield_revenue_annual_usd_ha": 3600.0,
+      "yield_start_year": 3
+    },
+    "109": {
+      "name": "Cocoa",
+      "capex_establishment_usd_ha": 3200.0,
+      "opex_annual_usd_ha": 650.0,
+      "yield_revenue_annual_usd_ha": 3100.0,
+      "yield_start_year": 4
+    },
+    "110": {
+      "name": "Mango",
+      "capex_establishment_usd_ha": 2600.0,
+      "opex_annual_usd_ha": 450.0,
+      "yield_revenue_annual_usd_ha": 2500.0,
+      "yield_start_year": 4
+    },
+    "111": {
+      "name": "Cashew",
+      "capex_establishment_usd_ha": 2200.0,
+      "opex_annual_usd_ha": 380.0,
+      "yield_revenue_annual_usd_ha": 2100.0,
+      "yield_start_year": 4
+    },
+    "112": {
+      "name": "Neem",
+      "capex_establishment_usd_ha": 1600.0,
+      "opex_annual_usd_ha": 250.0,
+      "yield_revenue_annual_usd_ha": 1400.0,
+      "yield_start_year": 5
+    },
+    "113": {
+      "name": "Moringa / Drumstick Tree",
+      "capex_establishment_usd_ha": 1500.0,
+      "opex_annual_usd_ha": 300.0,
+      "yield_revenue_annual_usd_ha": 2200.0,
+      "yield_start_year": 1
+    },
+    "114": {
+      "name": "Brown Salwood",
+      "capex_establishment_usd_ha": 2100.0,
+      "opex_annual_usd_ha": 320.0,
+      "yield_revenue_annual_usd_ha": 2000.0,
+      "yield_start_year": 5
+    },
+    "115": {
+      "name": "Eastern Cottonwood / Poplar",
+      "capex_establishment_usd_ha": 1900.0,
+      "opex_annual_usd_ha": 280.0,
+      "yield_revenue_annual_usd_ha": 1850.0,
+      "yield_start_year": 4
+    },
+    "116": {
+      "name": "Coconut Palm",
+      "capex_establishment_usd_ha": 2900.0,
+      "opex_annual_usd_ha": 480.0,
+      "yield_revenue_annual_usd_ha": 2700.0,
+      "yield_start_year": 6
+    },
+    "117": {
+      "name": "Olive",
+      "capex_establishment_usd_ha": 3800.0,
+      "opex_annual_usd_ha": 550.0,
+      "yield_revenue_annual_usd_ha": 3400.0,
+      "yield_start_year": 5
+    },
+    "118": {
+      "name": "Scots Pine",
+      "capex_establishment_usd_ha": 2200.0,
+      "opex_annual_usd_ha": 290.0,
+      "yield_revenue_annual_usd_ha": 1750.0,
+      "yield_start_year": 8
+    },
+    "119": {
+      "name": "Jackfruit",
+      "capex_establishment_usd_ha": 2400.0,
+      "opex_annual_usd_ha": 380.0,
+      "yield_revenue_annual_usd_ha": 2300.0,
+      "yield_start_year": 5
+    },
+    "120": {
+      "name": "Silver Oak",
+      "capex_establishment_usd_ha": 2000.0,
+      "opex_annual_usd_ha": 300.0,
+      "yield_revenue_annual_usd_ha": 1800.0,
+      "yield_start_year": 5
+    },
+    "121": {
+      "name": "Pongamia / Karanja",
+      "capex_establishment_usd_ha": 1700.0,
+      "opex_annual_usd_ha": 260.0,
+      "yield_revenue_annual_usd_ha": 1500.0,
+      "yield_start_year": 5
+    },
+    "122": {
+      "name": "Tamarind",
+      "capex_establishment_usd_ha": 2100.0,
+      "opex_annual_usd_ha": 320.0,
+      "yield_revenue_annual_usd_ha": 2000.0,
+      "yield_start_year": 7
+    },
+    "123": {
+      "name": "African Oil Palm",
+      "capex_establishment_usd_ha": 3400.0,
+      "opex_annual_usd_ha": 620.0,
+      "yield_revenue_annual_usd_ha": 3500.0,
+      "yield_start_year": 4
+    },
+    "124": {
+      "name": "Subabul / White Leadtree",
+      "capex_establishment_usd_ha": 1600.0,
+      "opex_annual_usd_ha": 280.0,
+      "yield_revenue_annual_usd_ha": 1900.0,
+      "yield_start_year": 2
+    },
+    "125": {
+      "name": "Empress Tree / Paulownia",
+      "capex_establishment_usd_ha": 2300.0,
+      "opex_annual_usd_ha": 340.0,
+      "yield_revenue_annual_usd_ha": 2400.0,
+      "yield_start_year": 4
+    },
+    "126": {
+      "name": "Malabar Neem",
+      "capex_establishment_usd_ha": 2000.0,
+      "opex_annual_usd_ha": 300.0,
+      "yield_revenue_annual_usd_ha": 2100.0,
+      "yield_start_year": 4
+    },
+    "127": {
+      "name": "Barbados Nut / Jatropha",
+      "capex_establishment_usd_ha": 1400.0,
+      "opex_annual_usd_ha": 240.0,
+      "yield_revenue_annual_usd_ha": 1300.0,
+      "yield_start_year": 2
+    }
+  }
+}
